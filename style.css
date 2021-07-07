@@ -1,0 +1,17 @@
+
+table{
+	font-family: helvetica,sans-serif;
+	border-collapse:collapse;
+	border-width: 3px;
+	border-style: solid;
+	border-color:black;
+}
+
+th{
+	font-weight: 800;
+	background-color:darkgrey;
+	color: #ffffff;
+	font-family: Helveica sans-serif;
+    font-size: 18px;
+
+}
